@@ -1,6 +1,6 @@
 # iRODS: Integrated Rule-Oriented Data System
 
-A guide to what iRODS is, why it exists, and how it benefits large-scale data management — with a particular focus on bioinformatics and genomics data archiving.
+A guide to what iRODS is, why it exists, and how it benefits large-scale data management — with a particular focus on bioinformatics and genomics data archiving. The repo will also have pages that provide introductory commands.
 
 ---
 
